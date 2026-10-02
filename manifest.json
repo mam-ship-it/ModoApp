@@ -1,0 +1,17 @@
+{
+  "name": "MODO AI – مدرّس التمريض الذكي",
+  "short_name": "MODO AI",
+  "description": "منصة MODO AI لتعلّم التمريض",
+  "lang": "ar",
+  "dir": "rtl",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#eef3fb",
+  "theme_color": "#1f7ae0",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any maskable" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ]
+}
